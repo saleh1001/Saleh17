@@ -13,7 +13,6 @@
 // If you don't know how to get a bot token, please see the guide here:
 // https://github.com/jagrosh/MusicBot/wiki/Getting-a-Bot-Token
 
-token=NTAzMDg1MTc0NTUzMzEzMzAw.Dqyhcg.-tSwU-0wSeW3_8DDv1kQaVukUcw
 
 
 // This sets the owner of the bot
